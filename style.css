@@ -1,0 +1,28 @@
+body{
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: rgb(44, 139, 44);
+}
+
+.container{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: larger;
+    font-family: 'Big Shoulders Inline Text', cursive;  
+}
+
+.cobra{
+    margin-right: 10px;
+    height: 30px;
+    width: 30px;
+}
+
+
